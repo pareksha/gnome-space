@@ -7,12 +7,11 @@
 
 ![Gnome Space GRUB theme](sample.jpg)
 
-### Installation / update
+## Installation / update
 
 1. **Automatic way:**
     - Download install script:  
-    `wget -P /tmp https://github.com/sarthakthakur24/poly-light/raw/master/install.sh`
-    - Review install script at `/tmp/install.sh`
+    `wget -P /tmp https://github.com/sarthakthakur24/gnome-space/raw/master/install.sh`
     - Run it: `bash /tmp/install.sh`
 2. **Manual way:**
     - Clone this repository
@@ -35,3 +34,10 @@
     - Open a terminal and type `sudo update-grub` to update the grub with the new changes made in the grub configuration file.
     - You're all set to go. (:wink:)
     
+## Contributors:
+1. [Andrei Shevchuk](https://github.com/shvchk)
+2. [格桑花给我的](https://github.com/Flowertome)
+3. [Jonas Cosandey](https://github.com/velrest)
+4. [Ole Martin Ruud](https://github.com/barskern)
+5. [Ricardo Simões](https://github.com/Ricardo-Simoes)
+6. [Sarthak Thakur](https://github.com/sarthakthakur24)
