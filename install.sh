@@ -1,6 +1,6 @@
 #! /usr/bin/env bash
 
-THEME='poly-light'
+THEME='gnome-space'
 LANG='English'
 
 # Pre-authorise sudo
@@ -34,7 +34,7 @@ done < /dev/tty
 
 
 echo 'Fetching theme archive'
-wget https://github.com/shvchk/$THEME/archive/master.zip
+wget https://github.com/sarthakthakur24/$THEME/archive/master.zip
 
 echo 'Unpacking theme'
 unzip master.zip
