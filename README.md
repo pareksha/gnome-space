@@ -17,5 +17,21 @@
 2. **Manual way:**
     - Clone this repository
     ```
-    git clone 
+    git clone https://github.com/sarthakthakur24/gnome-space.git
     ```
+    - Copy the theme to the Grub Themes directory
+    ```
+    sudo cp -r gnome-space /boot/grub/themes/
+    ```
+    - Open the grub configuration file stored in `etc/default/` with root permissions
+    ```
+    sudo gedit /etc/default/grub
+    ```
+    - Look for a line starting with `GRUB_THEME` and edit it to look like the one below:
+    ```
+    GRUB_THEME=/boot/grub/themes/gnome-space/theme.txt
+    ```
+    - Save the file and then exit the editor
+    - Open a terminal and type `sudo update-grub` to update the grub with the new changes made in the grub configuration file.
+    - You're all set to go. (:wink:)
+    
