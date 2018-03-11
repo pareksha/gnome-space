@@ -1,9 +1,11 @@
-## Poly light GRUB theme
+# Gnome Space GRUB theme
 
-Supported languages: Chinese (simplified), English, French, German, Norwegian, Portuguese, Russian, Ukrainian
+## Disclaimer:
+- This theme is a work of [Andrew Shevchuk](https://github.com/shvchk)
+- I forked this repository just to make slight modifications so as to modify the theme as I like. I claim **not to be the owner of the project** and that all the content belongs to [Andrew Shevchuk](https://github.com/shvchk).
+- Link to original repository is [here](https://github.com/shvchk/poly-light).
 
-
-![](https://i.imgur.com/XitFbtv.gif)
+![Gnome Space GRUB theme](https://imgur.com/a/YQGjg)
 
 ### Installation / update
 
